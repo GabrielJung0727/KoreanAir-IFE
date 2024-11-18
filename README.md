@@ -173,7 +173,7 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
   * 다음 단계로 넘어가는 조건:
     * UI 설계(와이어프레임) 완성.
     * 데이터 흐름과 API 요구 사항 문서화 완료.
-</br>
+
 * 2단계: 데이터베이스 설계 및 구축
   * 목표:
     * 콘텐츠와 사용자 데이터를 저장할 DB 설계
@@ -187,7 +187,7 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
     * MySQL Workbench, MongoDB Compass
   * 다음 단계로 넘어가는 조건:
     * DB 스키마와 테이블이 설계되고, 샘플 데이터가 삽입되어 API와 연동 가능.
-</br>
+
 * 3단계: 백엔드 API 개발
   * 목표: 
     * 데이터 제공 및 처리 로직 구현
@@ -202,7 +202,7 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
     * Postman(API 테스트), Sequelize
   * 다음 단계로 넘어가는 조건:
     * 모든 API가 데이터베이스와 연동되어 정상 작동.
-</br>
+
 * 4단계: UI/UX 개발 (Flutter)
   * 목표:
     * 사용자 인터페이스 구축
@@ -217,7 +217,7 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
     * Android Studio, Visual Studio Code
   * 다음 단계로 넘어가는 조건:
     * 주요 화면이 Flutter에서 렌더링되고 API로 데이터 수신 가능.
-</br>
+
 * 5단계: 스트리밍 서버 구축
   * 목표:
     * 콘텐츠 스트리밍 환경 구성
@@ -230,7 +230,7 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
     * FFmpeg, VLC Player(테스트)
   * 다음 단계로 넘어가는 조건:
     * 스트리밍 서버에서 콘텐츠를 정상적으로 재생 가능.
-</br>
+
 * 6단계: 보안 설정
   * 목표:
     * 사용자 데이터와 콘텐츠 보호
@@ -242,7 +242,7 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
     * OpenSSL, Postman
   * 다음 단계로 넘어가는 조건:
     * 모든 API 및 스트리밍 요청이 HTTPS로 보호됨.
-</br>
+
 * 7단계: 네트워크 설정
   * 목표:
     * 기내 네트워크와 시스템 통합
@@ -254,7 +254,7 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
     * Wireshark, Nginx
   * 다음 단계로 넘어가는 조건:
     * IFE 시스템이 네트워크 환경에서 안정적으로 작동.
-</br>
+
 * 8단계: 통합 및 테스트
   * 목표:
     * 전체 시스템 통합 및 기능 테스트
@@ -267,7 +267,7 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
     * Cypress(테스트 자동화), Flutter 테스트 도구
   * 다음 단계로 넘어가는 조건:
     * 모든 주요 기능이 오류 없이 작동.
-</br>
+
 * 9단계: 운영 및 배포
   * 목표:
     * 실제 환경에서 시스템 배포 및 유지보수
