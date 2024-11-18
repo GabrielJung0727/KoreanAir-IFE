@@ -7,5 +7,5 @@
 > 2024.11.18 ~ : coding start.
 
 
-## tructure
+## Structure
 > start page, select-language page, maing page, header page, etc
