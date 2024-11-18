@@ -1,4 +1,4 @@
-# [KoreanAir-IFE](https://www.koreanair.com/plan-your-travel/in-flight-experience/entertainment)
+ㅂ# [KoreanAir-IFE](https://www.koreanair.com/plan-your-travel/in-flight-experience/entertainment)
 
 ## In-Flight Entertainment of Korean Air.
 <img src="https://aircraft.airbus.com/sites/g/files/jlcbta126/files/styles/airbus_480x480/public/2022-09/A321neo_Front.webp?itok=3HxHqBnA" width="450px" height="300px" title="Airbus321 neo" alt="Airbus321 neo"></img><br/>
@@ -7,6 +7,9 @@
 > ### 2024.11.14 ~ 2024.11.17 : I personally Checked by boarding the A321-272NX of Korean Air (KE189, KE190).
 > ### 2024.11.18 ~ 2024.11.18 : Finished Plans
 > ### 2024.11.18 ~ : Start the Coding
+
+## Links
+https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-162202&node-type=canvas&t=qW6jmnSWsTaq6F6X-0
 
 
 ## Structure
