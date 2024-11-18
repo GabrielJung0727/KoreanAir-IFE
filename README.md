@@ -327,7 +327,8 @@ https://www.figma.com/design/8j2RW1ZwYfJy5gWv3Ky7Dq/Figma-basics?node-id=1669-16
     * 별점 및 코멘트 데이터 저장 및 통계 분석.
 
 ## System Architecture
-```탑승객 디바이스 (Flutter 앱) <-> 백엔드 서버 (Node.js)
+```
+탑승객 디바이스 (Flutter 앱) <-> 백엔드 서버 (Node.js)
                               <-> 데이터베이스 (MySQL)
                               <-> 스트리밍 서버 (FFmpeg)
                               <-> CMS (React.js + Node.js)
