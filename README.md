@@ -16,7 +16,7 @@
 * Languages : Node.js
   * 비동기 처리와 스트리밍 서버 구현, API 개발.
     * [ 작업 내용 ]
-    > * 1. RESTful API 설계 및 개발 (영화, 음악, 사용자 세션 관리).
+    >   1. RESTful API 설계 및 개발 (영화, 음악, 사용자 세션 관리).
     >   2. 스트리밍 서버 구현(HLS/MPEG-DASH).
     >   3. 데이터베이스와의 연결 (MySQL 또는 MongoDB).
     * [ Use? ]
