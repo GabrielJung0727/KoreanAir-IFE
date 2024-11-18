@@ -1,4 +1,4 @@
-ㅂ# [KoreanAir-IFE](https://www.koreanair.com/plan-your-travel/in-flight-experience/entertainment)
+# [KoreanAir-IFE](https://www.koreanair.com/plan-your-travel/in-flight-experience/entertainment)
 
 ## In-Flight Entertainment of Korean Air.
 <img src="https://aircraft.airbus.com/sites/g/files/jlcbta126/files/styles/airbus_480x480/public/2022-09/A321neo_Front.webp?itok=3HxHqBnA" width="450px" height="300px" title="Airbus321 neo" alt="Airbus321 neo"></img><br/>
