@@ -4,7 +4,8 @@
 
 ## Date
 > ### 2024.11.14 ~ 2024.11.17 : I personally Checked by boarding the A321-272NX of Korean Air (KE189, KE190).
-> ### 2024.11.18 ~ : coding start.
+> ### 2024.11.18 ~ 2024.11.18 : Finished Plans
+> ### 2024.11.18 ~ : Start the Coding
 
 
 ## Structure
