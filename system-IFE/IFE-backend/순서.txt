@@ -1,1 +1,68 @@
+1. config/ finish
+2. models/ finish
+3. controllers/ finish
+4. routes/ finish
+5. middlewares/ finish
+6. services/ finish
+7. utils/ finish
+8. server.js finish
+9. docker-compose.yml finish
 
+1. AI 기반 추천 시스템
+- 장르 추천 (기존 내역을 통한 추천 시스템)
+- 장시간 비행 팁 (안전과 건강상으로 )
+- 도착지의 관광 콘텐츠나 일정 추천 (숙소나 일정 인원 등등을 입력해 AI의 일정 추천을 받을 수 있음)
+- 건강 알림 시스템 (장시간 비행에 운영 / 모니터 알림)
+
+- models/PassengerPreferences.js finish
+- models/FlightHealthTips.js finish
+- services/recommendationService.js finish
+- routes/api/passengers/recommendations.js finish
+- routes/api/passengers/health-tips.js finish
+
+2. 좌석 iot (비즈니스 좌석 이상)
+- 만약 좌석에 열선이나 바람 시스템이 탑재되어 있다면, 제어 시스템 - 보류 (안정성 및 화재)
+- 위치 조정 / 조명 조정 / 좌석 열/풍 조정 제어 시스템 (좌석-핸드폰 연결이나 모니터로 제어)
+- 기내에 간식이나 음료 및 주류를 승무원을 부르지 않고도 모니터로 주문할 수 있는 시스템 (장시간 비행 전용 또는 각 비행 노선에 따른 제공에 따라 운영)
+
+- models/SeatControl.js finish
+- models/Order.js finish
+- services/iotService.js finish
+- services/orderService.js finish
+- routes/api/seats/control.js finish
+- routes/api/seats/orders.js finish
+
+3. 피드백 시스템
+- 모니터의 피드백 버튼이나 핸드폰으로 피드백을 할 수 있음.
+
+- models/Feedback.js finish
+- services/feedbackService.js finish
+- routes/api/passengers/feedback.js finish
+
+4. 도착지 주요 정보 제공 시스템
+- 도착지 날씨, 시간대, 통화 (환율), 공항 정보 (게이트, 터미널, 등등)
+- 대중교통
+
+- services/destinationServices.js finish
+- routes/api/destination/info.js finish
+
+5. 기내 모드 시스템
+- 수면 지원 모드 (편안한 수면 유도/장시간 비행에 운영)
+
+- models/FlightPreferences.js finish
+- services/sleepModeService.js finish
+- routes/api/passengers/sleep-mode.js
+
+1. config/ hold
+2. models/ 
+3. controllers/ 
+4. routes/ 
+5. middlewares/ 
+6. services/ 
+7. utils/ 
+8. server.js 
+9. docker-compose.yml 
+
+database name: root 
+database pw: 0136
+database port: 3306
