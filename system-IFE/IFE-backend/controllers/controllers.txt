@@ -1,0 +1,1 @@
+# 로직 처리 (RESTful API 또는 GraphQL Resolver)
